@@ -11,5 +11,9 @@
 
 <h2>qualitative_analysis<h2>
 
+This is a project for research in generative AI,which includes esearch data, scripts, and
+certain documents for researching.
 
 the corresponding files are located into corresponding folders.
+
+
